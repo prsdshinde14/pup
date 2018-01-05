@@ -1,0 +1,13 @@
+Lodha-Nginx-Prod root@ip-172-31-21-182:~ #find / -name Gallery
+/home/ftp-user/html/public/public/new-cuffe-parade/codename-well-connected/assets/images/Gallery
+/home/ftp-user/html/public/public/new-cuffe-parade/oc-ready-towers/assets/images/Gallery
+/home/ftp-user/html/public/public/new-cuffe-parade/lodha-enchante/assets/images/Gallery
+/home/ftp-user/html/public/public/pay/assets/images/Gallery
+/home/ftp-user/html/public/public/pay-(13.12.2017)/assets/images/Gallery
+/home/ftp-user/html/public/public/events-feedback/assets/images/Gallery
+/var/www/html/public/public/new-cuffe-parade/codename-well-connected/assets/images/Gallery
+/var/www/html/public/public/new-cuffe-parade/oc-ready-towers/assets/images/Gallery
+/var/www/html/public/public/new-cuffe-parade/lodha-enchante/assets/images/Gallery
+/var/www/html/public/public/pay/assets/images/Gallery
+/var/www/html/public/public/pay-(13.12.2017)/assets/images/Gallery
+/var/www/html/public/public/events-feedback/assets/images/Gallery
